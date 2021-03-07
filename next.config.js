@@ -1,0 +1,16 @@
+module.exports = {
+  images: {
+    domains: ['3s0nk0fsnz73.b-cdn.net','*.b-cdn.net'],
+  },
+
+  i18n : {
+
+    // These are all the locales you want to support in
+    // your application
+    locales: ['en-GB', 'de-DE'],
+
+    // This is the default locale you want to be used when visiting
+    // a non-locale prefixed path e.g. `/hello`
+    defaultLocale: 'en-GB',
+  }
+}
