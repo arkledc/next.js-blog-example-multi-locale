@@ -1,13 +1,13 @@
-# A statically generated blog example using Next.js and Prepr
+# A statically multi locale generated blog example using Next.js and Prepr
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [Prepr](https://prepr.io/) as the data source.
 
 ## Demo
 
-- **Live**: [https://next-blog-prepr.now.sh/](https://next-blog-prepr.now.sh/)
-- **Preview Mode**: [https://next-blog-prepr.now.sh/api/preview...](https://next-blog-prepr.now.sh/api/preview?secret=237864ihasdhj283768&slug=discover-enjoy-amsterdam)
+- **Live**: [https://next-js-blog-example-multi-locale.now.sh/](https://next-js-blog-example-multi-locale.now.sh/)
+- **Preview Mode**: [https://next-js-blog-example-multi-locale.now.sh/api/preview...](https://next-js-blog-example-multi-locale.now.sh/api/preview?secret=237864ihasdhj283768&slug=discover-enjoy-amsterdam)
 
-### [https://next-blog-prepr.now.sh/](https://next-blog-prepr.now.sh/)
+### [https://next-js-blog-example-multi-locale.now.sh/](https://next-js-blog-example-multi-locale.now.sh/)
 
 ## Getting Started
 
